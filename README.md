@@ -35,20 +35,7 @@ Get in touch with me via email or LinkedIn. This section provides my contact inf
 
 The website is built using the following technologies:
 
-- **HTML5**  
-  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-
-- **CSS3**  
-  ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-
-- **JavaScript**  
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-
-- **Poppins Font**  
-  ![Poppins](https://img.icons8.com/color/48/000000/google-logo.png)
-
-- **Responsive Design**  
-  ![Responsive Design](https://img.icons8.com/color/48/000000/responsive.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
 ## Setup
 
