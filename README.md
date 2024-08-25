@@ -1,5 +1,6 @@
 # 🌐 [Arnav Sao Portfolio Website](https://arnavsao.vercel.app/)
 <a href="https://arnavsao.vercel.app/" target="_blank">
+![Screenshot 2024-08-25 at 9 01 59 PM](https://github.com/user-attachments/assets/4388027b-6cce-4a2c-825b-887507a99d0c)
 
     ![Screenshot 2024-08-25 at 8 59 06 PM](https://github.com/user-attachments/assets/1f3bc4b2-145a-4577-b3bc-7ab14b0fc968)
 
