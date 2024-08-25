@@ -1,7 +1,7 @@
 # 🌐 [Arnav Sao Portfolio Website](https://arnavsao.vercel.app/)
-<a href="https://arnavsao.vercel.app/" target="_blank">
-    ![Screenshot 2024-08-25 at 9 01 59 PM](https://github.com/user-attachments/assets/85522694-4a59-44f6-bd1a-fee59e131eec)
-</a>
+
+[![Screenshot of Arnav Sao Portfolio](https://github.com/user-attachments/assets/85522694-4a59-44f6-bd1a-fee59e131eec)](https://arnavsao.vercel.app/)
+
 Welcome to my portfolio website! This project showcases my skills, experience, and projects as a web developer and ML enthusiast. Below is a brief overview of the website and the technology stack used.
 
 ## Table of Contents
@@ -61,4 +61,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Thank you for visiting my portfolio website! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arnavsao/) or [GitHub](https://github.com/Arnavsao1924).
+Thank you for visiting my portfolio website! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arnavsao/) or [GitHub](https://github.com/ArnavSao1924).
