@@ -1,6 +1,6 @@
 # 🌐 [Arnav Sao Portfolio Website](https://arnavsao.vercel.app/)
 <a href="https://arnavsao.vercel.app/" target="_blank">
-    <img width="1710" alt="Screenshot 2024-07-09 at 8 08 48 AM" src="https://github.com/Arnavsao/Portfolio/assets/140349606/63cb65ab-bae8-4b81-bb07-3149b8d9fd11">
+    ![Screenshot 2024-08-25 at 8 59 06 PM](https://github.com/user-attachments/assets/2af4cf05-fff8-4d56-9dac-91e6d888754f)
 </a>
 Welcome to my portfolio website! This project showcases my skills, experience, and projects as a web developer and ML enthusiast. Below is a brief overview of the website and the technology stack used.
 
